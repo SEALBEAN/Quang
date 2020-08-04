@@ -8,7 +8,7 @@ from selenium.webdriver.common.keys import Keys
 VJ_URL = "https://www.vietjetair.com/Sites/Web/vi-VN/Home"
 
 TDN='AG48046301'
-PAS='Loantam60#'
+PAS='Tamtam60#'
 FROM='Ho Chi Minh'
 TO='Ha Noi'
 DATE='15/08/2020'
